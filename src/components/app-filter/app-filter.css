@@ -1,0 +1,13 @@
+.btn-group {
+    margin-top: 20px;
+    
+}
+
+.btn-outline-light {
+    color: black;
+    border-color: rgba(59, 58, 58, 0.281);
+}
+
+.btn-light {
+    border-color: rgba(59, 58, 58, 0.281);
+}
